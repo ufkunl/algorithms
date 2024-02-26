@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63c25741-827d-4c30-9216-e9ec4f70907f" name="Changes" comment="init">
+    <list default="true" id="63c25741-827d-4c30-9216-e9ec4f70907f" name="Changes" comment="find-the-town-judge">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Main1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
       <recent name="leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main1">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="algorithms" />
@@ -66,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Main2" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main" />
       </list>
@@ -83,7 +97,7 @@
       <updated>1708605147868</updated>
       <workItem from="1708605149070" duration="336000" />
       <workItem from="1708605501098" duration="269000" />
-      <workItem from="1708605798841" duration="13474000" />
+      <workItem from="1708605798841" duration="22144000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1708605409484</created>
@@ -92,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708605409484</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="find-the-town-judge">
+      <created>1708693732977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708693732977</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="find-the-town-judge" />
+    <option name="LAST_COMMIT_MESSAGE" value="find-the-town-judge" />
   </component>
 </project>
